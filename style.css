@@ -1,0 +1,28 @@
+div#github {
+    font-size: 15pt;
+}
+
+div#instagram {
+    font-size: 15pt;
+}
+
+div#twitter {
+    font-size: 15pt;
+}
+
+div#linkedin {
+    font-size: 15pt
+}
+
+p#texto {
+    font-size: 14pt;
+}
+
+div {
+    font-size: 15pt
+}
+
+body {
+    background-color: rgba(19, 129, 219, 0.295);
+    
+}
